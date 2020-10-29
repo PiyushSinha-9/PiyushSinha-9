@@ -1,6 +1,6 @@
 ##  Hello, Piyush here 👋
 
-#### [LinkedIn](https://www.linkedin.com/in/piyush20/)           
+<a href="https://www.linkedin.com/in/piyush20/">![](https://img.shields.io/badge/dexterpuru%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 - 🔭 I’m currently working on Ecommerce Website
 - 🌱 I’m currently practicing Data Structure and Algorithms
