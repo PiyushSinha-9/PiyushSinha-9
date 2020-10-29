@@ -16,6 +16,9 @@
 <a href="#">![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
+<a href="#">![](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)</a>
+<a href="#">![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)</a>
+<a href="#">![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)</a>
 
 <!--
 **PiyushSinha-9/PiyushSinha-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
