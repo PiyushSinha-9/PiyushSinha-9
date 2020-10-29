@@ -1,6 +1,6 @@
-##                                             Hi, Piyush here
+##  <p>                      </p>Hello, Piyush here
 
-#### [GitHub](https://www.linkedin.com/in/piyush20/)           
+#### [LinkedIn](https://www.linkedin.com/in/piyush20/)           
 
 - 🔭 I’m currently working on Ecommerce Website
 - 🌱 I’m currently learning Full Stack
