@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I can solve Rubik's cube under 2 minutes
 
 
-### 🔧 Technologies & Tools
+#### 🔧 Technologies & Tools
 
 <a href="#">![](https://img.shields.io/badge/C++-%234ea94b.svg?&style=for-the-badge&logo=C++&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)</a>
