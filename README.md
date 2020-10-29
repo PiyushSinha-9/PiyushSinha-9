@@ -3,6 +3,7 @@
 #### [LinkedIn](https://www.linkedin.com/in/piyush20/)           
 
 - 🔭 I’m currently working on Ecommerce Website
+- 🌱 I’m currently practicing Data Structure and Algorithms
 - 🌱 I’m currently learning Full Stack
 - 👯 I’m looking to collaborate on Full stack or ML project
 - ⚡ Fun fact: I can solve Rubik's cube under 2 minutes
