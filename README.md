@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I can solve Rubik's cube under 2 minutes
 
 
-#### 🔧 Technologies & Tools
+#### 🔧 Familiar Technologies & Tools
 
 <a href="#">![](https://img.shields.io/badge/C++-%234ea94b.svg?&style=for-the-badge&logo=C++&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)</a>
@@ -25,6 +25,7 @@
 <a href="#">![](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)</a>
 <a href="#">![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)</a>
+<a href="#">![](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)</a>
 
 
 <!--
