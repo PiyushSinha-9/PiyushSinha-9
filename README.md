@@ -4,12 +4,6 @@
 <a href="https://www.linkedin.com/in/piyush20/">![](https://img.shields.io/badge/PS%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 <a href="https://drive.google.com/file/d/1VBAmeMvIZLIgYg_lQWuLz-oHeTJVvPYM/view?usp=sharing">![](https://img.shields.io/badge/latest_resume%20-%231DA1F2.svg?&style=for-the-badge&logo=download&logoColor=white)</a>
 
-- 🔭 I’m currently working on Ecommerce Website
-- 🌱 I’m currently practicing Data Structure and Algorithms
-- 🌱 I’m currently learning Full Stack
-- 👯 I’m looking to collaborate on Full stack or ML project
-- ⚡ Fun fact: I can solve Rubik's cube under 2 minutes
-
 
 #### 🔧 Familiar Technologies & Tools
 
