@@ -1,8 +1,8 @@
 ##  Hello, Piyush here 👋🏼
 
-<a href="http://piyushsinha.info">![](https://img.shields.io/badge/portfolio%20-%231DA1F2.svg?&style=for-the-badge&logo=download&logoColor=white)</a>
+<!-- <a href="http://piyushsinha.info">![](https://img.shields.io/badge/portfolio%20-%231DA1F2.svg?&style=for-the-badge&logo=download&logoColor=white)</a> -->
 <a href="https://www.linkedin.com/in/piyush20/">![](https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-<a href="https://drive.google.com/file/d/1g7usa2JxOkQYbr3DDrXvGvUxr2tLgyhn/view?usp=sharing">![](https://img.shields.io/badge/resume%20-%231DA1F2.svg?&style=for-the-badge&logo=download&logoColor=white)</a>
+<!-- <a href="https://drive.google.com/file/d/1g7usa2JxOkQYbr3DDrXvGvUxr2tLgyhn/view?usp=sharing">![](https://img.shields.io/badge/resume%20-%231DA1F2.svg?&style=for-the-badge&logo=download&logoColor=white)</a> -->
 
 
 #### 🔧 Familiar Technologies & Tools
