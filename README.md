@@ -1,8 +1,9 @@
 ## Hi, I'm Piyush 👋
 
 Software Engineer 2 at **Microsoft**, previously at **Dunzo** and **Nasdaq**.
-Computer Science, Lovely Professional University (2021).
-Completed 4 of the 5 courses in MITx's MicroMasters in Statistics and Data Science: Probability, Fundamentals of Statistics, Machine Learning with Python, and Data Analysis in Social Science.
+
+🎓 Computer Science, Lovely Professional University (2021)<br>
+📜 MITx MicroMasters in Statistics and Data Science: 4 of 5 courses completed (Probability, Fundamentals of Statistics, Machine Learning with Python, Data Analysis in Social Science)
 
 #### Tech I work with
 
