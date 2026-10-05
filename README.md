@@ -7,7 +7,7 @@ Software Engineer 2 at **Microsoft**, previously at **Dunzo** and **Nasdaq**.
 
 #### Tech I work with
 
-<img src="https://skillicons.dev/icons?i=go,py,cpp,cs,scala,redis,elasticsearch,mongodb,rabbitmq,kubernetes,terraform,azure,aws&perline=7" alt="Go, Python, C++, C#, Scala, Redis, Elasticsearch, MongoDB, RabbitMQ, Kubernetes, Terraform, Azure, AWS" />
+<img src="https://skillicons.dev/icons?i=go,py,cpp,cs,scala,redis,elasticsearch,mongodb,rabbitmq,kubernetes,terraform,azure,aws&perline=13" alt="Go, Python, C++, C#, Scala, Redis, Elasticsearch, MongoDB, RabbitMQ, Kubernetes, Terraform, Azure, AWS" />
 
 #### Find me on
 
